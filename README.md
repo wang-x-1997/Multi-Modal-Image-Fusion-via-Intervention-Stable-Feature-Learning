@@ -1,5 +1,5 @@
 Source code of the paper ***"Multi-Modal Image Fusion via Intervention-Stable Feature Learning"*** which has been accepted by CVPR 2026.
-- [[Paper]((https://arxiv.org/abs/2603.23272))]
+- [[Paper](https://arxiv.org/abs/2603.23272)]
 - Xue Wang, Zheng Guan, Wenhua Qian, Chengchao Wang, RunZhuo Ma
 
 # Abstract
